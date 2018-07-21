@@ -15,3 +15,7 @@ I'm a college student
 |1008|[ Elevator ](https://pintia.cn/problem-sets/994805342720868352/problems/994805511923286016)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1008/Main.java)|2018/7/20| 20 | 20 |
 |1009|[ Product of Polynomials ](https://pintia.cn/problem-sets/994805342720868352/problems/994805509540921344)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1009/Main.java)|2018/7/20| 25 | 20 |
 |1010|[ Radix ](https://pintia.cn/problem-sets/994805342720868352/problems/994805507225665536)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1010/Main.java)|2018/7/20| 25 | 24 |
+|1011|[ World Cup Betting ](https://pintia.cn/problem-sets/994805342720868352/problems/994805504927186944)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1011/Main.java)|2018/7/21| 20 | 20 |
+|1012|[ The Best Rank ](https://pintia.cn/problem-sets/994805342720868352/problems/994805502658068480)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1012/Main.java)|2018/7/21| 25 | 15 |
+|1013|[ Battle Over Cities ](https://pintia.cn/problem-sets/994805342720868352/problems/994805500414115840)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1013/Main.java)|2018/7/21| 25 | 15 |
+|1014|[ Waiting in Line ](https://pintia.cn/problem-sets/994805342720868352/problems/994805498207911936)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1014/Main.java)|2018/7/21| 30 | 0 |
