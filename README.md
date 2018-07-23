@@ -19,5 +19,6 @@ I'm a college student
 |1012|[ The Best Rank ](https://pintia.cn/problem-sets/994805342720868352/problems/994805502658068480)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1012/Main.java)|2018/7/21| 25 | 15 |
 |1013|[ Battle Over Cities ](https://pintia.cn/problem-sets/994805342720868352/problems/994805500414115840)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1013/Main.java)|2018/7/21| 25 | 15 |
 |1014|[ Waiting in Line ](https://pintia.cn/problem-sets/994805342720868352/problems/994805498207911936)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1014/Main.java)|2018/7/21| 30 | 0 |
-|1015|[  Reversible Primes ](https://pintia.cn/problem-sets/994805342720868352/problems/994805495863296000)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1015/Main.java)|2018/7/22| 20 | 20 |
-|1017|[  Queueing at Bank ](https://pintia.cn/problem-sets/994805342720868352/problems/994805495863296000)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1017/Main.java)|2018/7/22| 25 | 17 |
+|1015|[ Reversible Primes ](https://pintia.cn/problem-sets/994805342720868352/problems/994805495863296000)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1015/Main.java)|2018/7/22| 20 | 20 |
+|1017|[ Queueing at Bank ](https://pintia.cn/problem-sets/994805342720868352/problems/994805495863296000)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1017/Main.java)|2018/7/22| 25 | 17 |
+|1019|[ General Palindromic Number ](https://pintia.cn/problem-sets/994805342720868352/problems/994805487143337984)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1019/Main.java)|2018/7/23| 20 | 20 |
