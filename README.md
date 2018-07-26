@@ -20,11 +20,13 @@ I'm a college student
 |1013|[ Battle Over Cities ](https://pintia.cn/problem-sets/994805342720868352/problems/994805500414115840)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1013/Main.java)|2018/7/21| 25 | 15 |
 |1014|[ Waiting in Line ](https://pintia.cn/problem-sets/994805342720868352/problems/994805498207911936)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1014/Main.java)|2018/7/21| 30 | 0 |
 |1015|[ Reversible Primes ](https://pintia.cn/problem-sets/994805342720868352/problems/994805495863296000)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1015/Main.java)|2018/7/22| 20 | 20 |
+|1016|[ Phone Bills ](https://pintia.cn/problem-sets/994805342720868352/problems/994805493648703488)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1016/Main.java)|2018/7/22| 25 | 0 |
 |1017|[ Queueing at Bank ](https://pintia.cn/problem-sets/994805342720868352/problems/994805495863296000)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1017/Main.java)|2018/7/22| 25 | 17 |
 |1019|[ General Palindromic Number ](https://pintia.cn/problem-sets/994805342720868352/problems/994805487143337984)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1019/Main.java)|2018/7/23| 20 | 20 |
-|1021|[ Deepest Root ](https://pintia.cn/problem-sets/994805342720868352/problems/994805482919673856)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1021/Main.java)|2018/7/23| 25 | 25 |
+|1020|[ Tree Traversals ](https://pintia.cn/problem-sets/994805342720868352/problems/994805485033603072)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1020/Main.java)|2018/7/23| 25 | 0 |
+|1021|[ Deepest Root ](https://pintia.cn/problem-sets/994805342720868352/problems/994805482919673856)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1021/Main.java)|2018/7/24| 25 | 25 |
 |1022|[ Digital Library ](https://pintia.cn/problem-sets/994805342720868352/problems/994805480801550336)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1022/Main.java)|2018/7/24| 30 | 25 |
-|1023|[ Have Fun with Numbers ](https://pintia.cn/problem-sets/994805342720868352/problems/994805478658260992)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1023/Main.java)|2018/7/24| 20 | 18 |
+|1023|[ Have Fun with Numbers ](https://pintia.cn/problem-sets/994805342720868352/problems/994805478658260992)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1023/Main.java)|2018/7/25| 20 | 18 |
 |1024|[ Palindromic Number ](https://pintia.cn/problem-sets/994805342720868352/problems/994805476473028608)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1024/Main.java)|2018/7/25| 25 | 25 |
 |1025|[ PAT Ranking ](https://pintia.cn/problem-sets/994805342720868352/problems/994805474338127872)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1025/Main.java)|2018/7/25| 25 | 19 |
 |1026|[ Table Tennis  ](https://pintia.cn/problem-sets/994805342720868352/problems/994805472333250560)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1026/Main.java)|2018/7/25| 30 | 0 |
