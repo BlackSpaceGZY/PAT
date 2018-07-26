@@ -27,6 +27,8 @@ I'm a college student
 |1023|[ Have Fun with Numbers ](https://pintia.cn/problem-sets/994805342720868352/problems/994805478658260992)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1023/Main.java)|2018/7/24| 20 | 18 |
 |1024|[ Palindromic Number ](https://pintia.cn/problem-sets/994805342720868352/problems/994805476473028608)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1024/Main.java)|2018/7/25| 25 | 25 |
 |1025|[ PAT Ranking ](https://pintia.cn/problem-sets/994805342720868352/problems/994805474338127872)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1025/Main.java)|2018/7/25| 25 | 19 |
+|1026|[ Table Tennis  ](https://pintia.cn/problem-sets/994805342720868352/problems/994805472333250560)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1026/Main.java)|2018/7/25| 30 | 0 |
 |1027|[ Colors in Mars ](https://pintia.cn/problem-sets/994805342720868352/problems/994805470349344768)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1027/Main.java)|2018/7/26| 20 | 20 |
 |1028|[ List Sorting ](https://pintia.cn/problem-sets/994805342720868352/problems/994805468327690240)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1028/Main.java)|2018/7/26| 25 | 21 |
+|1029|[ Median ](https://pintia.cn/problem-sets/994805342720868352/problems/994805466364755968)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1029/1.c)|2018/7/26| 25 | 12 |
 |1030|[ Travel Plan ](https://pintia.cn/problem-sets/994805342720868352/problems/994805464397627392)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1030/Main.java)|2018/7/26| 30 | 30 |
