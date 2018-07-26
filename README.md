@@ -27,3 +27,6 @@ I'm a college student
 |1023|[ Have Fun with Numbers ](https://pintia.cn/problem-sets/994805342720868352/problems/994805478658260992)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1023/Main.java)|2018/7/24| 30 | 25 |
 |1024|[ Palindromic Number ](https://pintia.cn/problem-sets/994805342720868352/problems/994805476473028608)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1024/Main.java)|2018/7/24| 25 | 25 |
 |1025|[ PAT Ranking ](https://pintia.cn/problem-sets/994805342720868352/problems/994805474338127872)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1025/Main.java)|2018/7/24| 25 | 19 |
+|1027|[ Colors in Mars ](https://pintia.cn/problem-sets/994805342720868352/problems/994805470349344768)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1027/Main.java)|2018/7/24| 20 | 20 |
+|1028|[ List Sorting ](https://pintia.cn/problem-sets/994805342720868352/problems/994805468327690240)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1028/Main.java)|2018/7/24| 25 | 21 |
+|1030|[ Travel Plan ](https://pintia.cn/problem-sets/994805342720868352/problems/994805464397627392)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1030/Main.java)|2018/7/24| 30 | 30 |
