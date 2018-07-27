@@ -35,3 +35,4 @@ I'm a college student
 |1028|[ List Sorting ](https://pintia.cn/problem-sets/994805342720868352/problems/994805468327690240)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1028/Main.java)|2018/7/26| 25 | 21 |
 |1029|[ Median ](https://pintia.cn/problem-sets/994805342720868352/problems/994805466364755968)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1029/1.c)|2018/7/26| 25 | 12 |
 |1030|[ Travel Plan ](https://pintia.cn/problem-sets/994805342720868352/problems/994805464397627392)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1030/Main.java)|2018/7/26| 30 | 30 |
+|1031|[ To Fill or Not to Fill ](https://pintia.cn/problem-sets/994805342720868352/problems/994805458722734080)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1031/Main.java)|2018/7/27| 20 | 20 |
