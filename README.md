@@ -40,3 +40,6 @@ I'm a college student
 |1036|[ Boys vs Girls ](https://pintia.cn/problem-sets/994805342720868352/problems/994805453203030016)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1036/Main.java)|2018/7/28| 25 | 25 |
 |1037|[ Magic Coupon ](https://pintia.cn/problem-sets/994805342720868352/problems/994805451374313472)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1037/Main.cpp)|2018/7/28| 25 | 25 |
 |1038|[ Recover the Smallest Number ](https://pintia.cn/problem-sets/994805342720868352/problems/994805449625288704)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1038/Main.java)|2018/7/28| 30 | 24 |
+|1039|[ Course List for Student ](https://pintia.cn/problem-sets/994805342720868352/problems/994805447855292416)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1038/Main.cpp)|2018/7/29| 25 | 25 |
+|1040|[ Longest Symmetric String ](https://pintia.cn/problem-sets/994805342720868352/problems/994805446102073344)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1038/Main.cpp)|2018/7/29| 25 | 25 |
+|1041|[ Be Unique ](https://pintia.cn/problem-sets/994805342720868352/problems/994805444361437184)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1038/Main.cpp)|2018/7/29| 20 | 20 |
