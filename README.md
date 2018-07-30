@@ -40,6 +40,9 @@ I'm a college student
 |1036|[ Boys vs Girls ](https://pintia.cn/problem-sets/994805342720868352/problems/994805453203030016)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1036/Main.java)|2018/7/28| 25 | 25 |
 |1037|[ Magic Coupon ](https://pintia.cn/problem-sets/994805342720868352/problems/994805451374313472)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1037/Main.cpp)|2018/7/28| 25 | 25 |
 |1038|[ Recover the Smallest Number ](https://pintia.cn/problem-sets/994805342720868352/problems/994805449625288704)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1038/Main.java)|2018/7/28| 30 | 24 |
-|1039|[ Course List for Student ](https://pintia.cn/problem-sets/994805342720868352/problems/994805447855292416)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1038/Main.cpp)|2018/7/29| 25 | 25 |
-|1040|[ Longest Symmetric String ](https://pintia.cn/problem-sets/994805342720868352/problems/994805446102073344)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1038/Main.cpp)|2018/7/29| 25 | 25 |
-|1041|[ Be Unique ](https://pintia.cn/problem-sets/994805342720868352/problems/994805444361437184)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1038/Main.cpp)|2018/7/29| 20 | 20 |
+|1039|[ Course List for Student ](https://pintia.cn/problem-sets/994805342720868352/problems/994805447855292416)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1039/Main.cpp)|2018/7/29| 25 | 25 |
+|1040|[ Longest Symmetric String ](https://pintia.cn/problem-sets/994805342720868352/problems/994805446102073344)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1040/Main.cpp)|2018/7/29| 25 | 25 |
+|1041|[ Be Unique ](https://pintia.cn/problem-sets/994805342720868352/problems/994805444361437184)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1041/Main.cpp)|2018/7/29| 20 | 20 |
+|1042|[ Shuffling Machine ](https://pintia.cn/problem-sets/994805342720868352/problems/994805442671132672)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1042/Main.java)|2018/7/30| 20 | 20 |
+|1044|[ Shopping in Mars ](https://pintia.cn/problem-sets/994805342720868352/problems/994805439202443264)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1044/Main.cpp)|2018/7/30| 25 | 25 |
+|1045|[ Favorite Color Stripe ](https://pintia.cn/problem-sets/994805342720868352/problems/994805437411475456)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1045/Main.java)|2018/7/30| 30 | 24 |
