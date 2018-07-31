@@ -46,3 +46,6 @@ I'm a college student
 |1042|[ Shuffling Machine ](https://pintia.cn/problem-sets/994805342720868352/problems/994805442671132672)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1042/Main.java)|2018/7/30| 20 | 20 |
 |1044|[ Shopping in Mars ](https://pintia.cn/problem-sets/994805342720868352/problems/994805439202443264)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1044/Main.cpp)|2018/7/30| 25 | 25 |
 |1045|[ Favorite Color Stripe ](https://pintia.cn/problem-sets/994805342720868352/problems/994805437411475456)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1045/Main.java)|2018/7/30| 30 | 24 |
+|1046|[ Shortest Distance ](https://pintia.cn/problem-sets/994805342720868352/problems/994805435700199424)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1046/Main.cpp)|2018/7/31| 20 | 20 |
+|1048|[ Find Coins ](https://pintia.cn/problem-sets/994805342720868352/problems/994805432256675840)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1048/Main.cpp)|2018/7/31| 25 | 25 |
+|1049|[ Counting Ones ](https://pintia.cn/problem-sets/994805342720868352/problems/994805430595731456)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1049/Main.cpp)|2018/7/31| 30 | 30 |
