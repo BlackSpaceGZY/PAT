@@ -53,3 +53,6 @@ I'm a college student
 |1051|[ Pop Sequence ](https://pintia.cn/problem-sets/994805342720868352/problems/994805427332562944)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1051/1051.cpp) |2018/8/1| 25 | 25 |
 |1052|[ Linked List Sorting ](https://pintia.cn/problem-sets/994805342720868352/problems/994805425780670464)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1052/1052.cpp) |2018/8/1| 25 | 24 |
 |1053|[ Path of Equal Weight ](https://pintia.cn/problem-sets/994805342720868352/problems/994805424153280512)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1053/1053.cpp) |2018/8/1| 30 | 30 |
+|1054|[ The Dominant Color ](https://pintia.cn/problem-sets/994805342720868352/problems/994805422639136768)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1054/1054.cpp) |2018/8/2| 20 | 20 |
+|1056|[ Mice and Rice ](https://pintia.cn/problem-sets/994805342720868352/problems/994805419468242944)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1056/1056.cpp) |2018/8/2| 25 | 25 |
+|1057|[ Stack ](https://pintia.cn/problem-sets/994805342720868352/problems/994805413520719872)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1057/1057.cpp) |2018/8/2| 30 | 17 |
