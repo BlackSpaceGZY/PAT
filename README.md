@@ -55,4 +55,7 @@ I'm a college student
 |1053|[ Path of Equal Weight ](https://pintia.cn/problem-sets/994805342720868352/problems/994805424153280512)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1053/1053.cpp) |2018/8/1| 30 | 30 |
 |1054|[ The Dominant Color ](https://pintia.cn/problem-sets/994805342720868352/problems/994805422639136768)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1054/1054.cpp) |2018/8/2| 20 | 20 |
 |1056|[ Mice and Rice ](https://pintia.cn/problem-sets/994805342720868352/problems/994805419468242944)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1056/1056.cpp) |2018/8/2| 25 | 25 |
-|1057|[ Stack ](https://pintia.cn/problem-sets/994805342720868352/problems/994805413520719872)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1057/1057.cpp) |2018/8/2| 30 | 17 |
+|1057|[ Stack ](https://pintia.cn/problem-sets/994805342720868352/problems/994805417945710592)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1057/1057.cpp) |2018/8/2| 30 | 17 |
+|1058|[ A+B in Hogwarts ](https://pintia.cn/problem-sets/994805342720868352/problems/994805416519647232)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1058/1058.cpp) |2018/8/5| 20 | 20 |
+|1059|[ Prime Factors ](https://pintia.cn/problem-sets/994805342720868352/problems/994805415005503488)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1059/1059.cpp) |2018/8/5| 25 | 25 |
+|1060|[ Are They Equal ](https://pintia.cn/problem-sets/994805342720868352/problems/994805413520719872)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1060/1060.cpp) |2018/8/5| 25 | 25 |
