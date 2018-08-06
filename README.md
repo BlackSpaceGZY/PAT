@@ -59,3 +59,6 @@ I'm a college student
 |1058|[ A+B in Hogwarts ](https://pintia.cn/problem-sets/994805342720868352/problems/994805416519647232)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1058/1058.cpp) |2018/8/5| 20 | 20 |
 |1059|[ Prime Factors ](https://pintia.cn/problem-sets/994805342720868352/problems/994805415005503488)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1059/1059.cpp) |2018/8/5| 25 | 25 |
 |1060|[ Are They Equal ](https://pintia.cn/problem-sets/994805342720868352/problems/994805413520719872)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1060/1060.cpp) |2018/8/5| 25 | 25 |
+|1061|[ Dating ](https://pintia.cn/problem-sets/994805342720868352/problems/994805411985604608)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1063/1063.cpp) |2018/8/6| 20 | 20 |
+|1062|[ Talent and Virtue ](https://pintia.cn/problem-sets/994805342720868352/problems/994805410555346944)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1063/1063.cpp) |2018/8/6| 25 | 25 |
+|1063|[ Set Similarity ](https://pintia.cn/problem-sets/994805342720868352/problems/994805409175420928)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1063/1063.cpp) |2018/8/6| 25 | 25 |
