@@ -62,3 +62,6 @@ I'm a college student
 |1061|[ Dating ](https://pintia.cn/problem-sets/994805342720868352/problems/994805411985604608)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1063/1063.cpp) |2018/8/6| 20 | 20 |
 |1062|[ Talent and Virtue ](https://pintia.cn/problem-sets/994805342720868352/problems/994805410555346944)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1063/1063.cpp) |2018/8/6| 25 | 25 |
 |1063|[ Set Similarity ](https://pintia.cn/problem-sets/994805342720868352/problems/994805409175420928)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1063/1063.cpp) |2018/8/6| 25 | 25 |
+|1065|[ Root of AVL Tree ](https://pintia.cn/problem-sets/994805342720868352/problems/994805404939173888)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1065/1065.cpp) |2018/8/7| 20 | 20 |
+|1067|[ Sort with Swap(0,*) ](https://pintia.cn/problem-sets/994805342720868352/problems/994805403651522560)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1067/1067.cpp) |2018/8/7| 25 | 25 |
+|1068|[ Find More Coins ](https://pintia.cn/problem-sets/994805342720868352/problems/994805402305150976)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1068/1068.cpp) |2018/8/7| 30 | 30 |
