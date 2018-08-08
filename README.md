@@ -65,3 +65,5 @@ I'm a college student
 |1065|[ Root of AVL Tree ](https://pintia.cn/problem-sets/994805342720868352/problems/994805404939173888)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1065/1065.cpp) |2018/8/7| 20 | 20 |
 |1067|[ Sort with Swap(0,*) ](https://pintia.cn/problem-sets/994805342720868352/problems/994805403651522560)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1067/1067.cpp) |2018/8/7| 25 | 25 |
 |1068|[ Find More Coins ](https://pintia.cn/problem-sets/994805342720868352/problems/994805402305150976)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1068/1068.cpp) |2018/8/7| 30 | 30 |
+|1069|[ The Black Hole of Numbers ](https://pintia.cn/problem-sets/994805342720868352/problems/994805400954585088)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1069/1069.cpp) |2018/8/8| 20 | 20 |
+|1070|[ Mooncake ](https://pintia.cn/problem-sets/994805342720868352/problems/994805399578853376)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1069/1069.cpp) |2018/8/8| 25 | 25 |
