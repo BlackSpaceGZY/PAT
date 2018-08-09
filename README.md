@@ -68,3 +68,6 @@ I'm a college student
 |1069|[ The Black Hole of Numbers ](https://pintia.cn/problem-sets/994805342720868352/problems/994805400954585088)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1069/1069.cpp) |2018/8/8| 20 | 20 |
 |1070|[ Mooncake ](https://pintia.cn/problem-sets/994805342720868352/problems/994805399578853376)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1070/1070.cpp) |2018/8/8| 25 | 25 |
 |1071|[ Speech Patterns ](https://pintia.cn/problem-sets/994805342720868352/problems/994805398257647616)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1071/1071.cpp) |2018/8/8| 25 | 25 |
+|1073|[ Scientific Notation ](https://pintia.cn/problem-sets/994805342720868352/problems/994805395707510784)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1073/1073.cpp) |2018/8/9| 20 | 20 |
+|1074|[ Reversing Linked List ](https://pintia.cn/problem-sets/994805342720868352/problems/994805394512134144)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1074/1074.cpp) |2018/8/9| 25 | 25 |
+|1075|[ PAT Judge ](https://pintia.cn/problem-sets/994805342720868352/problems/994805393241260032)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1075/1075.cpp) |2018/8/9| 25 | 25 |
