@@ -71,3 +71,7 @@ I'm a college student
 |1073|[ Scientific Notation ](https://pintia.cn/problem-sets/994805342720868352/problems/994805395707510784)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1073/1073.cpp) |2018/8/9| 20 | 20 |
 |1074|[ Reversing Linked List ](https://pintia.cn/problem-sets/994805342720868352/problems/994805394512134144)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1074/1074.cpp) |2018/8/9| 25 | 25 |
 |1075|[ PAT Judge ](https://pintia.cn/problem-sets/994805342720868352/problems/994805393241260032)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1075/1075.cpp) |2018/8/9| 25 | 25 |
+|1076|[ Forwards on Weibo ](https://pintia.cn/problem-sets/994805342720868352/problems/994805392092020736)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1076/1076.cpp) |2018/8/14| 30 | 30 |
+|1077|[ Kuchiguse ](https://pintia.cn/problem-sets/994805342720868352/problems/994805390896644096)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1077/1077.cpp) |2018/8/14| 20 | 20 |
+|1078|[ Hashing ](https://pintia.cn/problem-sets/994805342720868352/problems/994805389634158592)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1078/1078.cpp) |2018/8/14| 25 | 25 |
+|1079|[ Total Sales of Supply Chain ](https://pintia.cn/problem-sets/994805342720868352/problems/994805388447170560)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1079/1079.cpp) |2018/8/14| 25 | 25 |
