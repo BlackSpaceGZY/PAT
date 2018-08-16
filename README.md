@@ -75,3 +75,9 @@ I'm a college student
 |1077|[ Kuchiguse ](https://pintia.cn/problem-sets/994805342720868352/problems/994805390896644096)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1077/1077.cpp) |2018/8/14| 20 | 20 |
 |1078|[ Hashing ](https://pintia.cn/problem-sets/994805342720868352/problems/994805389634158592)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1078/1078.cpp) |2018/8/14| 25 | 25 |
 |1079|[ Total Sales of Supply Chain ](https://pintia.cn/problem-sets/994805342720868352/problems/994805388447170560)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1079/1079.cpp) |2018/8/14| 25 | 25 |
+|1081|[ Rational Sum ](https://pintia.cn/problem-sets/994805342720868352/problems/994805386161274880)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1081/1081.cpp) |2018/8/15| 20 | 20 |
+|1082|[ Read Number in Chinese ](https://pintia.cn/problem-sets/994805342720868352/problems/994805385053978624)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1082/1082.cpp) |2018/8/15| 25 | 0 |
+|1083|[ List Grades ](https://pintia.cn/problem-sets/994805342720868352/problems/994805383929905152)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1083/1083.cpp) |2018/8/15| 25 | 25 |
+|1084|[ Broken Keyboard ](https://pintia.cn/problem-sets/994805342720868352/problems/994805382902300672)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1084/1084.cpp) |2018/8/16| 20 | 20 |
+|1085|[ Perfect Sequence ](https://pintia.cn/problem-sets/994805342720868352/problems/994805381845336064)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1085/1085.cpp) |2018/8/16| 25 | 25 |
+|1086|[ Tree Traversals Again ](https://pintia.cn/problem-sets/994805342720868352/problems/994805380754817024)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1086/1086.cpp) |2018/8/16| 25 | 25 |
