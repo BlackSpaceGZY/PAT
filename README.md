@@ -82,3 +82,7 @@ I'm a college student
 |1085|[ Perfect Sequence ](https://pintia.cn/problem-sets/994805342720868352/problems/994805381845336064)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1085/1085.cpp) |2018/8/16| 25 | 25 |
 |1086|[ Tree Traversals Again ](https://pintia.cn/problem-sets/994805342720868352/problems/994805380754817024)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1086/1086.cpp) |2018/8/16| 25 | 25 |
 |1088|[ Rational Arithmetic ](https://pintia.cn/problem-sets/994805342720868352/problems/994805378443755520)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1088/1088.cpp) |2018/8/17| 20 | 20 |
+|1092|[ To Buy or Not to Buy ](https://pintia.cn/problem-sets/994805342720868352/problems/994805374509498368)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1092/1092.cpp) |2018/8/18| 20 | 20 |
+|1093|[ Count PAT's ](https://pintia.cn/problem-sets/994805342720868352/problems/994805373582557184)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1093/1093.cpp) |2018/8/18| 25 | 15 |
+|1094|[ The Largest Generation ](https://pintia.cn/problem-sets/994805342720868352/problems/994805372601090048)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1094/1094.cpp) |2018/8/18| 25 | 25 |
+|1095|[ Cars on Campus ](https://pintia.cn/problem-sets/994805342720868352/problems/994805371602845696)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1095/1095.cpp) |2018/8/18| 30 | 0 |
