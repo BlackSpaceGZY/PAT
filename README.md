@@ -86,3 +86,5 @@ I'm a college student
 |1093|[ Count PAT's ](https://pintia.cn/problem-sets/994805342720868352/problems/994805373582557184)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1093/1093.cpp) |2018/8/18| 25 | 15 |
 |1094|[ The Largest Generation ](https://pintia.cn/problem-sets/994805342720868352/problems/994805372601090048)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1094/1094.cpp) |2018/8/18| 25 | 25 |
 |1095|[ Cars on Campus ](https://pintia.cn/problem-sets/994805342720868352/problems/994805371602845696)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1095/1095.cpp) |2018/8/18| 30 | 0 |
+|1096|[ Consecutive Factors ](https://pintia.cn/problem-sets/994805342720868352/problems/994805370650738688)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1097/1097.cpp) |2018/8/19| 20 | 20 |
+|1097|[ Deduplication on a Linked List ](https://pintia.cn/problem-sets/994805342720868352/problems/994805369774129152)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1097/1097.cpp) |2018/8/19| 25 | 25 |
