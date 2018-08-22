@@ -92,3 +92,5 @@ I'm a college student
 |1102|[ Invert a Binary Tree ](https://pintia.cn/problem-sets/994805342720868352/problems/994805365537882112)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1102/1102.cpp) |2018/8/20| 25 | 25 |
 |1104|[ Sum of Number Segments ](https://pintia.cn/problem-sets/994805342720868352/problems/994805363914686464)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1106/1106.cpp) |2018/8/21| 20 | 15 |
 |1106|[ Lowest Price in Supply Chain ](https://pintia.cn/problem-sets/994805342720868352/problems/994805362341822464)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1106/1106.cpp) |2018/8/21| 25 | 25 |
+|1108|[ Lowest Price in Supply Chain ](https://pintia.cn/problem-sets/994805342720868352/problems/994805360777347072)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1108/1108.cpp) |2018/8/22| 20 | 18 |
+|1109|[ Lowest Price in Supply Chain ](https://pintia.cn/problem-sets/994805342720868352/problems/994805360043343872)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1109/1109.cpp) |2018/8/22| 25 | 25 |
