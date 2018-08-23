@@ -95,3 +95,5 @@ I'm a college student
 |1108|[ Lowest Price in Supply Chain ](https://pintia.cn/problem-sets/994805342720868352/problems/994805360777347072)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1108/1108.cpp) |2018/8/22| 20 | 18 |
 |1109|[ Lowest Price in Supply Chain ](https://pintia.cn/problem-sets/994805342720868352/problems/994805360043343872)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1109/1109.cpp) |2018/8/22| 25 | 25 |
 |1110|[ Complete Binary Tree ](https://pintia.cn/problem-sets/994805342720868352/problems/994805359372255232)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1110/1110.cpp) |2018/8/22| 25 | 16 |
+|1112|[ Stucked Keyboard ](https://pintia.cn/problem-sets/994805342720868352/problems/994805357933608960)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1112/1112.cpp) |2018/8/23| 20 | 16 |
+|1113|[ Integer Set Partition ](https://pintia.cn/problem-sets/994805342720868352/problems/994805357258326016)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1113/1113.cpp) |2018/8/23| 25 | 25 |
