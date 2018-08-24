@@ -97,3 +97,6 @@ I'm a college student
 |1110|[ Complete Binary Tree ](https://pintia.cn/problem-sets/994805342720868352/problems/994805359372255232)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1110/1110.cpp) |2018/8/22| 25 | 16 |
 |1112|[ Stucked Keyboard ](https://pintia.cn/problem-sets/994805342720868352/problems/994805357933608960)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1112/1112.cpp) |2018/8/23| 20 | 16 |
 |1113|[ Integer Set Partition ](https://pintia.cn/problem-sets/994805342720868352/problems/994805357258326016)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1113/1113.cpp) |2018/8/23| 25 | 25 |
+|1116|[ Come on! Let's C ](https://pintia.cn/problem-sets/994805342720868352/problems/994805355358306304)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1116/1116.cpp) |2018/8/24| 20 | 20 |
+|1117|[ Eddington Number ](https://pintia.cn/problem-sets/994805342720868352/problems/994805354762715136)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1117/1117.cpp) |2018/8/24| 25 | 25 |
+|1118|[ Birds in Forest ](https://pintia.cn/problem-sets/994805342720868352/problems/994805354108403712)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1118/1118.cpp) |2018/8/24| 25 | 25 |
