@@ -100,3 +100,6 @@ I'm a college student
 |1116|[ Come on! Let's C ](https://pintia.cn/problem-sets/994805342720868352/problems/994805355358306304)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1116/1116.cpp) |2018/8/24| 20 | 20 |
 |1117|[ Eddington Number ](https://pintia.cn/problem-sets/994805342720868352/problems/994805354762715136)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1117/1117.cpp) |2018/8/24| 25 | 25 |
 |1118|[ Birds in Forest ](https://pintia.cn/problem-sets/994805342720868352/problems/994805354108403712)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1118/1118.cpp) |2018/8/24| 25 | 25 |
+|1120|[ Friend Numbers ](https://pintia.cn/problem-sets/994805342720868352/problems/994805352925609984)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1120/1120.cpp) |2018/8/25| 20 | 20 |
+|1121|[ Damn Single ](https://pintia.cn/problem-sets/994805342720868352/problems/994805352359378944)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1121/1121.cpp) |2018/8/25| 25 | 25 |
+|1122|[ Hamiltonian Cycle ](https://pintia.cn/problem-sets/994805342720868352/problems/994805351814119424)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1122/1122.cpp) |2018/8/25| 25 | 25 |
