@@ -103,3 +103,6 @@ I'm a college student
 |1120|[ Friend Numbers ](https://pintia.cn/problem-sets/994805342720868352/problems/994805352925609984)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1120/1120.cpp) |2018/8/25| 20 | 20 |
 |1121|[ Damn Single ](https://pintia.cn/problem-sets/994805342720868352/problems/994805352359378944)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1121/1121.cpp) |2018/8/25| 25 | 25 |
 |1122|[ Hamiltonian Cycle ](https://pintia.cn/problem-sets/994805342720868352/problems/994805351814119424)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1122/1122.cpp) |2018/8/25| 25 | 25 |
+|1124|[ Raffle for Weibo Followers ](https://pintia.cn/problem-sets/994805342720868352/problems/994805350803292160)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1124/1124.cpp) |2018/8/26| 20 | 20 |
+|1125|[ Chain the Ropes ](https://pintia.cn/problem-sets/994805342720868352/problems/994805350316752896)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1125/1125.cpp) |2018/8/26| 25 | 25 |
+|1126|[ Eulerian Path ](https://pintia.cn/problem-sets/994805342720868352/problems/994805349851185152)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1126/1126.cpp) |2018/8/26| 25 | 25 |
