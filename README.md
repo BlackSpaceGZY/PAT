@@ -106,3 +106,7 @@ I'm a college student
 |1124|[ Raffle for Weibo Followers ](https://pintia.cn/problem-sets/994805342720868352/problems/994805350803292160)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1124/1124.cpp) |2018/8/26| 20 | 20 |
 |1125|[ Chain the Ropes ](https://pintia.cn/problem-sets/994805342720868352/problems/994805350316752896)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1125/1125.cpp) |2018/8/26| 25 | 25 |
 |1126|[ Eulerian Path ](https://pintia.cn/problem-sets/994805342720868352/problems/994805349851185152)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1126/1126.cpp) |2018/8/26| 25 | 25 |
+|1127|[ ZigZagging on a Tree ](https://pintia.cn/problem-sets/994805342720868352/problems/994805349394006016)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1127/1127.cpp) |2018/8/27| 30 | 30 |
+|1128|[ N Queens Puzzle ](https://pintia.cn/problem-sets/994805342720868352/problems/994805348915855360)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1128/1128.cpp) |2018/8/27| 20 | 20 |
+|1129|[ Recommendation System ](https://pintia.cn/problem-sets/994805342720868352/problems/994805348471259136)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1129/1129.cpp) |2018/8/27| 25 | 25 |
+|1130|[ Infix Expression ](https://pintia.cn/problem-sets/994805342720868352/problems/994805347921805312)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1130/1130.cpp) |2018/8/27| 25 | 25 |
