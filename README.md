@@ -110,3 +110,6 @@ I'm a college student
 |1128|[ N Queens Puzzle ](https://pintia.cn/problem-sets/994805342720868352/problems/994805348915855360)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1128/1128.cpp) |2018/8/27| 20 | 20 |
 |1129|[ Recommendation System ](https://pintia.cn/problem-sets/994805342720868352/problems/994805348471259136)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1129/1129.cpp) |2018/8/27| 25 | 25 |
 |1130|[ Infix Expression ](https://pintia.cn/problem-sets/994805342720868352/problems/994805347921805312)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1130/1130.cpp) |2018/8/27| 25 | 25 |
+|1132|[ Cut Integer ](https://pintia.cn/problem-sets/994805342720868352/problems/994805347145859072)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1132/1132.cpp) |2018/8/28| 20 | 20 |
+|1133|[ Splitting A Linked List ](https://pintia.cn/problem-sets/994805342720868352/problems/994805346776760320)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1133/1133.cpp) |2018/8/28| 25 | 25 |
+|1134|[ Vertex Cover ](https://pintia.cn/problem-sets/994805342720868352/problems/994805346428633088)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1134/1134.cpp) |2018/8/28| 25 | 25 |
