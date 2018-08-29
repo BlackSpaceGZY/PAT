@@ -113,3 +113,5 @@ I'm a college student
 |1132|[ Cut Integer ](https://pintia.cn/problem-sets/994805342720868352/problems/994805347145859072)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1132/1132.cpp) |2018/8/28| 20 | 20 |
 |1133|[ Splitting A Linked List ](https://pintia.cn/problem-sets/994805342720868352/problems/994805346776760320)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1133/1133.cpp) |2018/8/28| 25 | 25 |
 |1134|[ Vertex Cover ](https://pintia.cn/problem-sets/994805342720868352/problems/994805346428633088)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1134/1134.cpp) |2018/8/28| 25 | 25 |
+|1136|[ A Delayed Palindrome ](https://pintia.cn/problem-sets/994805342720868352/problems/994805345732378624)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1136/1136.cpp) |2018/8/29| 20 | 18 |
+|1137|[ Final Grading ](https://pintia.cn/problem-sets/994805342720868352/problems/994805345401028608)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1137/1137.cpp) |2018/8/29| 25 | 25 |
