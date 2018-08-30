@@ -115,3 +115,8 @@ I'm a college student
 |1134|[ Vertex Cover ](https://pintia.cn/problem-sets/994805342720868352/problems/994805346428633088)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1134/1134.cpp) |2018/8/28| 25 | 25 |
 |1136|[ A Delayed Palindrome ](https://pintia.cn/problem-sets/994805342720868352/problems/994805345732378624)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1136/1136.cpp) |2018/8/29| 20 | 18 |
 |1137|[ Final Grading ](https://pintia.cn/problem-sets/994805342720868352/problems/994805345401028608)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1137/1137.cpp) |2018/8/29| 25 | 25 |
+|1138|[ Postorder Traversal ](https://pintia.cn/problem-sets/994805342720868352/problems/994805345078067200)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1138/1138.cpp) |2018/8/30| 25 | 25 |
+|1140|[ Look-and-say Sequence ](https://pintia.cn/problem-sets/994805342720868352/problems/994805344490864640)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1140/1140.cpp) |2018/8/30| 20 | 20 |
+|1141|[ PAT Ranking of Institutions ](https://pintia.cn/problem-sets/994805342720868352/problems/994805344222429184)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1141/1141.cpp) |2018/8/30| 25 | 25 |
+|1142|[ Maximal Clique ](https://pintia.cn/problem-sets/994805342720868352/problems/994805343979159552)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1142/1142.cpp) |2018/8/30| 25 | 25 |
+|1143|[ Lowest Common Ancestor ](https://pintia.cn/problem-sets/994805342720868352/problems/994805343727501312)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1143/1143.cpp) |2018/8/30| 30 | 30 |
