@@ -120,3 +120,7 @@ I'm a college student
 |1141|[ PAT Ranking of Institutions ](https://pintia.cn/problem-sets/994805342720868352/problems/994805344222429184)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1141/1141.cpp) |2018/8/30| 25 | 25 |
 |1142|[ Maximal Clique ](https://pintia.cn/problem-sets/994805342720868352/problems/994805343979159552)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1142/1142.cpp) |2018/8/30| 25 | 25 |
 |1143|[ Lowest Common Ancestor ](https://pintia.cn/problem-sets/994805342720868352/problems/994805343727501312)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1143/1143.cpp) |2018/8/30| 30 | 30 |
+|1144|[ The Missing Number ](https://pintia.cn/problem-sets/994805342720868352/problems/994805343463260160)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1144/1144.cpp) |2018/8/31| 20| 20 |
+|1145|[ Hashing - Average Search Time ](https://pintia.cn/problem-sets/994805342720868352/problems/994805343236767744)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1145/1145.cpp) |2018/8/31| 25 | 25 |
+|1146|[ Topological Order ](https://pintia.cn/problem-sets/994805342720868352/problems/994805343043829760)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1146/1146.cpp) |2018/8/31| 25 | 25 |
+|1147|[ Heaps ](https://pintia.cn/problem-sets/994805342720868352/problems/994805342821531648)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1147/1147.cpp) |2018/8/31| 30 | 30 |
