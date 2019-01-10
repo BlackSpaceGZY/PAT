@@ -15,6 +15,7 @@ I'm a college student
 |1005|[ Spell It Right ](https://pintia.cn/problem-sets/994805342720868352/problems/994805519074574336)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1005/Main.java)|2018/7/19| 20 | 20 |
 |1005|[ Spell It Right ](https://pintia.cn/problem-sets/994805342720868352/problems/994805519074574336)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1005/1005.cpp)|2019/1/10| 20 | 20 |
 |1006|[ Sign In and Sign Out ](https://pintia.cn/problem-sets/994805342720868352/problems/994805516654460928)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1006/Main.java)|2018/7/19| 25 | 25 |
+|1006|[ Sign In and Sign Out ](https://pintia.cn/problem-sets/994805342720868352/problems/994805516654460928)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1006/1006.cpp)|2019/1/10| 25 | 25 |
 |1007|[ Maximum Subsequence Sum ](https://pintia.cn/problem-sets/994805342720868352/problems/994805514284679168)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1007/Main.java)|2018/7/19| 25 | 20 |
 |1008|[ Elevator ](https://pintia.cn/problem-sets/994805342720868352/problems/994805511923286016)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1008/Main.java)|2018/7/20| 20 | 20 |
 |1009|[ Product of Polynomials ](https://pintia.cn/problem-sets/994805342720868352/problems/994805509540921344)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1009/Main.java)|2018/7/20| 25 | 20 |
