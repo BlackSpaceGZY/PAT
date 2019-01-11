@@ -19,6 +19,7 @@ I'm a college student
 |1007|[ Maximum Subsequence Sum ](https://pintia.cn/problem-sets/994805342720868352/problems/994805514284679168)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1007/Main.java)|2018/7/19| 25 | 20 |
 |1007|[ Maximum Subsequence Sum ](https://pintia.cn/problem-sets/994805342720868352/problems/994805514284679168)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1007/1007.cpp)|2019/1/11| 25 | 25 |
 |1008|[ Elevator ](https://pintia.cn/problem-sets/994805342720868352/problems/994805511923286016)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1008/Main.java)|2018/7/20| 20 | 20 |
+|1008|[ Elevator ](https://pintia.cn/problem-sets/994805342720868352/problems/994805511923286016)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1008/1008.cpp)|2019/1/11| 20 | 20 |
 |1009|[ Product of Polynomials ](https://pintia.cn/problem-sets/994805342720868352/problems/994805509540921344)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1009/Main.java)|2018/7/20| 25 | 20 |
 |1010|[ Radix ](https://pintia.cn/problem-sets/994805342720868352/problems/994805507225665536)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1010/Main.java)|2018/7/20| 25 | 24 |
 |1011|[ World Cup Betting ](https://pintia.cn/problem-sets/994805342720868352/problems/994805504927186944)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1011/Main.java)|2018/7/21| 20 | 20 |
