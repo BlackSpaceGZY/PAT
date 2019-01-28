@@ -27,8 +27,9 @@ I'm a college student
 |1011|[ World Cup Betting ](https://pintia.cn/problem-sets/994805342720868352/problems/994805504927186944)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1011/Main.java)|2018/7/21| 20 | 20 |
 |1011|[ World Cup Betting ](https://pintia.cn/problem-sets/994805342720868352/problems/994805504927186944)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1011/1011.cpp)|2019/1/12| 20 | 20 |
 |1012|[ The Best Rank ](https://pintia.cn/problem-sets/994805342720868352/problems/994805502658068480)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1012/Main.java)|2018/7/21| 25 | 15 |
-|1012|[ The Best Rank ](https://pintia.cn/problem-sets/994805342720868352/problems/994805502658068480)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1012/1012.cpp)|2018/7/21| 25 | 25 |
+|1012|[ The Best Rank ](https://pintia.cn/problem-sets/994805342720868352/problems/994805502658068480)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1012/1012.cpp)|2019/1/13| 25 | 25 |
 |1013|[ Battle Over Cities ](https://pintia.cn/problem-sets/994805342720868352/problems/994805500414115840)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1013/Main.java)|2018/7/21| 25 | 15 |
+|1013|[ Battle Over Cities ](https://pintia.cn/problem-sets/994805342720868352/problems/994805500414115840)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1013/1003.cpp)|2019/1/28| 25 | 25 |
 |1014|[ Waiting in Line ](https://pintia.cn/problem-sets/994805342720868352/problems/994805498207911936)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1014/Main.java)|2018/7/21| 30 | 0 |
 |1015|[ Reversible Primes ](https://pintia.cn/problem-sets/994805342720868352/problems/994805495863296000)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1015/Main.java)|2018/7/22| 20 | 20 |
 |1016|[ Phone Bills ](https://pintia.cn/problem-sets/994805342720868352/problems/994805493648703488)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1016/Main.java)|2018/7/22| 25 | 0 |
