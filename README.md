@@ -41,6 +41,7 @@ I'm a college student
 |1019|[ General Palindromic Number ](https://pintia.cn/problem-sets/994805342720868352/problems/994805487143337984)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1019/1019.cpp) |2019/3/2| 20 | 20 |
 |1020|[ Tree Traversals ](https://pintia.cn/problem-sets/994805342720868352/problems/994805485033603072)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1020/1020.cpp) |2019/3/2| 25 | 25 |
 |1021|[ Deepest Root ](https://pintia.cn/problem-sets/994805342720868352/problems/994805482919673856)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1021/Main.java)|2018/7/24| 25 | 25 |
+|1021|[ Deepest Root ](https://pintia.cn/problem-sets/994805342720868352/problems/994805482919673856)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1021/1021.cpp) |2019/3/2| 25 | 25 |
 |1022|[ Digital Library ](https://pintia.cn/problem-sets/994805342720868352/problems/994805480801550336)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1022/Main.java)|2018/7/24| 30 | 25 |
 |1023|[ Have Fun with Numbers ](https://pintia.cn/problem-sets/994805342720868352/problems/994805478658260992)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1023/Main.java)|2018/7/25| 20 | 18 |
 |1024|[ Palindromic Number ](https://pintia.cn/problem-sets/994805342720868352/problems/994805476473028608)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1024/Main.java)|2018/7/25| 25 | 25 |
