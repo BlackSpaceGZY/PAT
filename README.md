@@ -39,7 +39,7 @@ I'm a college student
 |1018|[ Public Bike Management ](https://pintia.cn/problem-sets/994805342720868352/problems/994805489282433024)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1018/1018.cpp) |2019/3/2| 30 | 25 |
 |1019|[ General Palindromic Number ](https://pintia.cn/problem-sets/994805342720868352/problems/994805487143337984)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1019/Main.java)|2018/7/23| 20 | 20 |
 |1019|[ General Palindromic Number ](https://pintia.cn/problem-sets/994805342720868352/problems/994805487143337984)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1019/1019.cpp) |2019/3/2| 20 | 20 |
-|1020|[ Tree Traversals ](https://pintia.cn/problem-sets/994805342720868352/problems/994805485033603072)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1020/Main.java)|2018/7/23| 25 | 0 |
+|1020|[ Tree Traversals ](https://pintia.cn/problem-sets/994805342720868352/problems/994805485033603072)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1020/1020.cpp) |2019/3/2| 25 | 25 |
 |1021|[ Deepest Root ](https://pintia.cn/problem-sets/994805342720868352/problems/994805482919673856)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1021/Main.java)|2018/7/24| 25 | 25 |
 |1022|[ Digital Library ](https://pintia.cn/problem-sets/994805342720868352/problems/994805480801550336)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1022/Main.java)|2018/7/24| 30 | 25 |
 |1023|[ Have Fun with Numbers ](https://pintia.cn/problem-sets/994805342720868352/problems/994805478658260992)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1023/Main.java)|2018/7/25| 20 | 18 |
