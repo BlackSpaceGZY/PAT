@@ -45,6 +45,7 @@ I'm a college student
 |1022|[ Digital Library ](https://pintia.cn/problem-sets/994805342720868352/problems/994805480801550336)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1022/Main.java)|2018/7/24| 30 | 25 |
 |1022|[ Digital Library ](https://pintia.cn/problem-sets/994805342720868352/problems/994805480801550336)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1022/1022.cpp) |2019/3/3| 30 | 25 |
 |1023|[ Have Fun with Numbers ](https://pintia.cn/problem-sets/994805342720868352/problems/994805478658260992)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1023/Main.java)|2018/7/25| 20 | 18 |
+|1023|[ Have Fun with Numbers ](https://pintia.cn/problem-sets/994805342720868352/problems/994805478658260992)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1023/1023.cpp) |2019/3/3| 20 | 20 |
 |1024|[ Palindromic Number ](https://pintia.cn/problem-sets/994805342720868352/problems/994805476473028608)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1024/Main.java)|2018/7/25| 25 | 25 |
 |1025|[ PAT Ranking ](https://pintia.cn/problem-sets/994805342720868352/problems/994805474338127872)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1025/Main.java)|2018/7/25| 25 | 19 |
 |1026|[ Table Tennis  ](https://pintia.cn/problem-sets/994805342720868352/problems/994805472333250560)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1026/Main.java)|2018/7/25| 30 | 0 |
