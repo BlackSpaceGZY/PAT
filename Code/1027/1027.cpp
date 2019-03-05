@@ -9,11 +9,11 @@ string switches(int n){
 	while(n>0){
 		m=n%13;
 		if(m==10)
-			s="a"+s;
+			s="A"+s;
 		else if(m==11)
-			s="b"+s;
+			s="B"+s;
 		else if(m==12)
-			s="c"+s;
+			s="C"+s;
 		else
 			s=to_string(m)+s;
 		n/=13;
