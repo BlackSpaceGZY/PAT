@@ -57,6 +57,7 @@ I'm a college student
 |1028|[ List Sorting ](https://pintia.cn/problem-sets/994805342720868352/problems/994805468327690240)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1028/1028.cpp) |2019/3/5| 25 | 25 |
 |1029|[ Median ](https://pintia.cn/problem-sets/994805342720868352/problems/994805466364755968)|[C](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1029/1029.c)  |2018/7/26| 25 | 16 |
 |1030|[ Travel Plan ](https://pintia.cn/problem-sets/994805342720868352/problems/994805464397627392)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1030/Main.java)|2018/7/26| 30 | 30 |
+|1030|[ Travel Plan ](https://pintia.cn/problem-sets/994805342720868352/problems/994805464397627392)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1030/1030.cpp) |2019/3/6| 30 | 24 |
 |1031|[ To Fill or Not to Fill ](https://pintia.cn/problem-sets/994805342720868352/problems/994805458722734080)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1031/Main.java)|2018/7/27| 20 | 20 |
 |1035|[ Password ](https://pintia.cn/problem-sets/994805342720868352/problems/994805454989803520)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1035/Main.java)|2018/7/28| 20 | 20 |
 |1036|[ Boys vs Girls ](https://pintia.cn/problem-sets/994805342720868352/problems/994805453203030016)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1036/Main.java)|2018/7/28| 25 | 25 |
