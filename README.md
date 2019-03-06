@@ -59,6 +59,7 @@ I'm a college student
 |1030|[ Travel Plan ](https://pintia.cn/problem-sets/994805342720868352/problems/994805464397627392)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1030/Main.java)|2018/7/26| 30 | 30 |
 |1030|[ Travel Plan ](https://pintia.cn/problem-sets/994805342720868352/problems/994805464397627392)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1030/1030.cpp) |2019/3/6| 30 | 24 |
 |1031|[ To Fill or Not to Fill ](https://pintia.cn/problem-sets/994805342720868352/problems/994805458722734080)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1031/Main.java)|2018/7/27| 20 | 20 |
+|1031|[ To Fill or Not to Fill ](https://pintia.cn/problem-sets/994805342720868352/problems/994805458722734080)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1031/1031.cpp) |2019/3/2| 20 | 20 |
 |1035|[ Password ](https://pintia.cn/problem-sets/994805342720868352/problems/994805454989803520)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1035/Main.java)|2018/7/28| 20 | 20 |
 |1036|[ Boys vs Girls ](https://pintia.cn/problem-sets/994805342720868352/problems/994805453203030016)|[Java](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1036/Main.java)|2018/7/28| 25 | 25 |
 |1037|[ Magic Coupon ](https://pintia.cn/problem-sets/994805342720868352/problems/994805451374313472)|[C++](https://github.com/BlackSpaceGZY/PAT/blob/master/Code/1037/Main.cpp)|2018/7/28| 25 | 25 |
