@@ -59,8 +59,6 @@ int main(){
 	}
 	sort(v1.begin(),v1.end(),cmp1);
 	for(int i=0;i<v1.size();i++){
-	  printf("%s %s\n",v1[i].name.c_str(),
-	 		v1[i].v[0].time.substr(0,2).c_str());
 	 	sort(v1[i].v.begin(),v1[i].v.end(),cmp2);
 	 	fg=0;
 		for(int j=0;j<v1[i].v.size();j++){
@@ -75,12 +73,17 @@ int main(){
 				+stoi(t2.substr(9,2))-stoi(t1.substr(3,2))*60*24
 				-stoi(t1.substr(6,2))*60-stoi(t1.substr(9,2));
 				money=compute(t1,t2,bill);
+				if(money!=0&&total==0)
+					printf("%s %s\n",v1[i].name.c_str(),
+						v1[i].v[0].time.substr(0,2).c_str());
 				total+=money;
-				printf("%s %s %d $%.2f\n",t1.substr(3).c_str(),t2.substr(3).c_str()
-					,minutes,money);
+				if(money!=0)
+					printf("%s %s %d $%.2f\n",t1.substr(3).c_str(),t2.substr(3).c_str()
+						,minutes,money);
 			}
 		}
-		printf("Total amount: $%.2f\n",total);
+		if(total!=0)
+			printf("Total amount: $%.2f\n",total);
 		total=0;
 	}
 	return 0;
